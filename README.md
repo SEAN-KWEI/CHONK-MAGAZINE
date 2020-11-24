@@ -1,2 +1,2 @@
-# CHONK-MAG
+# CHONK-MAG.github.io
  chonk magazine
